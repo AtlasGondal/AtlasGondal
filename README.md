@@ -61,6 +61,9 @@
 ### 📈 Stats
 [![Atlas Gondal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtlasGondal&show_icons=true&theme=merko)](https://github.com/AtlasGondal/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasGondal)](https://github.com/AtlasGondal/github-readme-stats)
+
+
 [website]: https://AtlasGondal.com/
 [twitter]: https://twitter.com/Atlas_Gondal/
 [youtube]: https://www.youtube.com/AtlasGondal/
