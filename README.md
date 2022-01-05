@@ -1,10 +1,13 @@
-### Hi there, I'm [Atlas Gondal][website] 👋 
+### Hi there, I am [Atlas Gondal][website] 👋 
 
-[![Website](https://img.shields.io/website?label=AtlasGondal.com&style=for-the-badge&url=https%3A%2F%2Fatlasgondal.com)](https://codestackr.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&color=%23ABD200&size=32&vCenter=true&width=330&lines=Developer%2C+Pentester+and;Digital+Forensic+Specialist)](https://git.io/typing-svg)
+
+[![Website](https://img.shields.io/website?label=AtlasGondal.com&style=for-the-badge&url=https%3A%2F%2Fatlasgondal.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Atlas_Gondal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAtlas_Gondal&screen_name=Atlas_Gondal)
-![](https://visitor-badge.glitch.me/badge?page_id=AtlasGondal.AtlasGondal)
+![](https://visitor-badge.glitch.me/badge?page_id=AtlasGondal.AtlasGondal&style=for-the-badge)
 
-## I'm a Developer, Pentester, & Digital Forensic Specialist
+
+## 👨🏻‍💻 I'm a Developer, Pentester, & Digital Forensic Specialist
 
 - 🔭 I love to explore new tools and technologies and their inner workings!
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +17,7 @@
 
 ---
 
-### Connect with me:
+### 🗣 Connect with me:
 
 [<img align="left" alt="AtlasGondal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AtlasGondal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -26,7 +29,7 @@
 
 ---
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -59,12 +62,24 @@
 ---
 
 ## 📈 Stats
+
+### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AtlasGondal&theme=matrix)][github]
+
+### ⚡️ Overall Stats
 [![Atlas Gondal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtlasGondal&show_icons=true&theme=merko)](https://github.com/AtlasGondal/github-readme-stats)
 
+### 🔝 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasGondal)](https://github.com/AtlasGondal/github-readme-stats)
 
+## 🐣 Latest Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Atlas_Gondal&layout=wide)][twitter]
+
+## 😆 Joke of the Day
+<img align="left" alt="Joke of the Day" src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up." />
 
 [website]: https://AtlasGondal.com/
+[github]: https://github.com/AtlasGondal/
 [twitter]: https://twitter.com/Atlas_Gondal/
 [youtube]: https://www.youtube.com/AtlasGondal/
 [instagram]: https://www.instagram.com/Atlas_Gondal/
