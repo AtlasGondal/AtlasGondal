@@ -1,12 +1,12 @@
-![AtlasGondal](https://socialify.git.ci/AtlasGondal/AtlasGondal/image?description=1&descriptionEditable=Developer%2C%20Pentester%20%26%20Digital%20Forensic%20Specialist&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+[![AtlasGondal](https://socialify.git.ci/AtlasGondal/AtlasGondal/image?description=1&descriptionEditable=Developer%2C%20Pentester%20%26%20Digital%20Forensic%20Specialist&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)][website]
 
 # Hi there, I am [Atlas Gondal][website] 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&color=%23ABD200&size=32&vCenter=true&width=330&lines=Developer%2C+Pentester+and;Digital+Forensic+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&color=%23ABD200&size=32&vCenter=true&width=330&lines=Developer%2C+Pentester+and;Digital+Forensic+Specialist)][website]
 
 [![Website](https://img.shields.io/website?label=AtlasGondal.com&style=for-the-badge&url=https%3A%2F%2Fatlasgondal.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Atlas_Gondal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAtlas_Gondal&screen_name=Atlas_Gondal)
-![](https://visitor-badge.glitch.me/badge?page_id=AtlasGondal.AtlasGondal&style=for-the-badge)
+[![](https://visitor-badge.glitch.me/badge?page_id=AtlasGondal.AtlasGondal&style=for-the-badge)][github]
 
 
 ## 👨🏻‍💻 I'm a Developer, Pentester, & Digital Forensic Specialist
@@ -58,18 +58,21 @@
 
 ### ⚡️ Overall Stats
 [![Atlas Gondal's Github Stats](https://github-readme-stats.vercel.app/api?username=AtlasGondal&show_icons=true&theme=merko)][github]
-[![Streak's Stat](https://github-readme-streak-stats.herokuapp.com/?user=AtlasGondal&theme=dark)][github]
+[![Atlas Gondal's Streak's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AtlasGondal&theme=dark)][github]
+[![Atlas Gondal's GitHub metrics](https://metrics.lecoq.io/AtlasGondal)][github]
+[![Atlas Gondal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AtlasGondal)][github]
+
 
 ### 🔝 Top Languages, Latest Tweets & Stackoverflow Stats
-<p>
+<a href="https://github.com/AtlasGondal/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasGondal" alt="Top Languages" />
-</p>
-<p>
+</a>
+<a href="https://twitter.com/Atlas_Gondal/">
   <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Atlas_Gondal" alt="Latest Tweets" />
-</p>
-<p>
+</a>
+<a href="https://stackoverflow.com/users/3583473/Atlas-Gondal">
   <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=3583473" alt="Stackoverflow Profile" />
-</p>
+</a>
 
 ## 🗣 Connect with me:
 
@@ -82,7 +85,7 @@
 <br/><br/>
 
 ## 😆 Joke of the Day
-<img align="left" alt="Joke of the Day" src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up." />
+[<img align="left" alt="Joke of the Day" src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up." />][website]
 
 
 [website]: https://AtlasGondal.com/
