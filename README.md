@@ -88,7 +88,7 @@
 [<img align="left" alt="Joke of the Day" src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up." />][website]
 
 
-[website]: https://AtlasGondal.com/
+[website]: https://atlasgondal.com/?utm_source=self&utm_medium=github&utm_campaign=profile&utm_term=readme
 [github]: https://github.com/AtlasGondal/
 [twitter]: https://twitter.com/Atlas_Gondal/
 [youtube]: https://www.youtube.com/AtlasGondal/
