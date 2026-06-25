@@ -67,6 +67,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Review of Offsec Exploit Developer (OSED) Certification and Exam](https://atlasgondal.com/certifications/a-review-of-offsec-exploit-developer-osed-certification-and-exam/) — Mar 02, 2026
+- [How PHP-FPM Boosts WordPress Performance on Digital Ocean VPS](https://atlasgondal.com/vps/digital-ocean/how-php-fpm-boosts-wordpress-performance-on-digital-ocean-vps/) — May 17, 2025
+- [WordPress Performance on Digital Ocean: Full Stack with Apache, NGINX &amp; Redis](https://atlasgondal.com/vps/digital-ocean/wordpress-performance-on-digital-ocean-full-stack-with-apache-nginx-redis/) — May 10, 2025
+- [Digital Ocean Droplet Benchmark: Intel vs AMD, NYC1 vs NYC3 vs SGP1](https://atlasgondal.com/vps/digital-ocean/digital-ocean-droplet-benchmark-intel-vs-amd-nyc1-vs-nyc3-vs-sgp1/) — May 03, 2025
+- [A Review of macOS Control Bypass (OSMR) Certification and Exam](https://atlasgondal.com/certifications/a-review-of-macos-control-bypass-osmr-certification-and-exam/) — Feb 07, 2025
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on AtlasGondal.com][website]
