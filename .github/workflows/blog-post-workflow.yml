@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Runs daily at 06:00 UTC
+  workflow_dispatch:        # Also allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in latest posts from AtlasGondal.com
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://atlasgondal.com/feed/"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "chore: update README with latest blog posts"
