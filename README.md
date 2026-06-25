@@ -1,92 +1,109 @@
-[![AtlasGondal](https://socialify.git.ci/AtlasGondal/AtlasGondal/image?description=1&descriptionEditable=Developer%2C%20Pentester%20%26%20Digital%20Forensic%20Specialist&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)][website]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/AtlasGondal/AtlasGondal/image?description=1&descriptionEditable=Developer%2C%20Pentester%20%26%20Digital%20Forensic%20Specialist&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark">
+  <img src="https://socialify.git.ci/AtlasGondal/AtlasGondal/image?description=1&descriptionEditable=Developer%2C%20Pentester%20%26%20Digital%20Forensic%20Specialist&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="AtlasGondal">
+</picture>
 
-# Hi there, I am [Atlas Gondal][website] 👋 
+# Hi there, I am [Atlas Gondal][website] 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&color=%23ABD200&size=32&vCenter=true&width=330&lines=Developer%2C+Pentester+and;Digital+Forensic+Specialist)][website]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&color=%23ABD200&size=32&vCenter=true&width=330&lines=Developer%2C+Pentester+and;Digital+Forensic+Specialist)][website]
 
 [![Website](https://img.shields.io/website?label=AtlasGondal.com&style=for-the-badge&url=https%3A%2F%2Fatlasgondal.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Atlas_Gondal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAtlas_Gondal&screen_name=Atlas_Gondal)
-[![](https://visitor-badge.glitch.me/badge?page_id=AtlasGondal.AtlasGondal&style=for-the-badge)][github]
+[![X Follow](https://img.shields.io/twitter/follow/Atlas_Gondal?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAtlas_Gondal&screen_name=Atlas_Gondal)
+[![Profile Views](https://komarev.com/ghpvc/?username=AtlasGondal&style=for-the-badge&color=ABD200&label=Profile+Views)][github]
 
+---
 
-## 👨🏻‍💻 I'm a Developer, Pentester, & Digital Forensic Specialist
+## 👨🏻‍💻 About Me
 
 - 🔭 I love to explore new tools and technologies and their inner workings!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other tech specialists
+- 🌱 I'm currently learning everything 🤣
+- 👯 I'm looking to collaborate with other tech specialists
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love travelling, hiking and exploring wonders of the world
 
 ---
 
-### 🛠 Languages and Tools:
+## 🛡️ What I Do
 
-<img align="left" alt="Visual Studio Code" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+| 💻 Development | 🔐 Cybersecurity | 📱 Mobile & More |
+|---|---|---|
+| Web Design & Development | Penetration Testing | Mobile App Development |
+| WordPress Solutions | Web Security Audits | Desktop Applications |
+| API Integration | Incident Response | SEO & SMM |
+| Exploit Development | Cybersecurity Training | Cyber Training |
 
-<img align="left" alt="C#" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Dart" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Flutter" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Java" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Php" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Swift" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="Wordpress" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-<img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+---
 
-<br />
-<br />
+## 🛠 Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,bootstrap,js,react,nodejs&perline=8" alt="Frontend & JS Tools" /><br/>
+    <img src="https://skillicons.dev/icons?i=cs,dart,flutter,java,php,py,swift,wordpress&perline=8" alt="Languages" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,bash,linux&perline=8" alt="Data & DevOps" />
+  </a>
+</p>
 
 ---
 
 ## 📈 Stats
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtlasGondal&theme=matrix)][github]
+[![trophy](https://github-profile-trophy.vercel.app/?username=AtlasGondal&theme=onedark&no-frame=true&margin-w=10)][github]
 
 ### ⚡️ Overall Stats
-[![Atlas Gondal's Github Stats](https://github-readme-stats.vercel.app/api?username=AtlasGondal&show_icons=true&theme=merko)][github]
-[![Atlas Gondal's Streak's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AtlasGondal&theme=dark)][github]
-[![Atlas Gondal's GitHub metrics](https://metrics.lecoq.io/AtlasGondal)][github]
-[![Atlas Gondal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AtlasGondal)][github]
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtlasGondal&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true" alt="Atlas Gondal's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasGondal&theme=github_dark_dimmed&layout=compact" alt="Top Languages" />
+</p>
 
-### 🔝 Top Languages, Latest Tweets & Stackoverflow Stats
-<a href="https://github.com/AtlasGondal/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasGondal" alt="Top Languages" />
-</a>
-<a href="https://twitter.com/Atlas_Gondal/">
-  <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Atlas_Gondal" alt="Latest Tweets" />
-</a>
-<a href="https://stackoverflow.com/users/3583473/Atlas-Gondal">
-  <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=3583473" alt="Stackoverflow Profile" />
-</a>
+[![Atlas Gondal's Streak Stats](https://streak-stats.demolab.com/?user=AtlasGondal&theme=github-dark-blue)][github]
 
-## 🗣 Connect with me:
+### 📊 Activity Graph
+[![Atlas Gondal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtlasGondal&theme=github-compact&hide_border=true)][github]
 
-[<img align="left" alt="AtlasGondal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AtlasGondal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Atlas_Gondal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AtlasGondal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Atlas_Gondal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br/><br/>
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More posts on AtlasGondal.com][website]
+
+---
+
+## 🗣 Connect with Me
+
+<p align="left">
+  <a href="https://atlasgondal.com/?utm_source=self&utm_medium=github&utm_campaign=profile&utm_term=readme">
+    <img alt="Website" width="32px" src="https://cdn.simpleicons.org/googlechrome/ABD200" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/AtlasGondal/">
+    <img alt="YouTube" width="32px" src="https://cdn.simpleicons.org/youtube/FF0000" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Atlas_Gondal/">
+    <img alt="X (Twitter)" width="32px" src="https://cdn.simpleicons.org/x/ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/AtlasGondal/">
+    <img alt="LinkedIn" width="32px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/Atlas_Gondal/">
+    <img alt="Instagram" width="32px" src="https://cdn.simpleicons.org/instagram/E4405F" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/3583473/Atlas-Gondal">
+    <img alt="Stack Overflow" width="32px" src="https://cdn.simpleicons.org/stackoverflow/F58025" />
+  </a>&nbsp;&nbsp;
+  <a href="https://profiles.wordpress.org/atlas_gondal/">
+    <img alt="WordPress" width="32px" src="https://cdn.simpleicons.org/wordpress/21759B" />
+  </a>
+</p>
+
+---
 
 ## 😆 Joke of the Day
-[<img align="left" alt="Joke of the Day" src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up." />][website]
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=github-dark)
 
 [website]: https://atlasgondal.com/?utm_source=self&utm_medium=github&utm_campaign=profile&utm_term=readme
 [github]: https://github.com/AtlasGondal/
